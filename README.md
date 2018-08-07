@@ -1,2 +1,0 @@
-# trelloprototype
-Created with CodeSandbox

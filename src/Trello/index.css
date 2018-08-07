@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.task-list {
+  list-style: none;
+  width: 33.3%;
+}
+.task-list-container {
+  display: flex;
+}
+
+.task-card {
+  height: 150px;
+  margin-bottom: 10px;
+  background: pink;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 16px 0px;
+}
+.plusBtn {
+  margin-bottom: 10px;
+}
+.input-section {
+  margin-bottom: 15px;
+}
+
+.add-task {
+  margin-top: 15px;
+}
