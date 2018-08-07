@@ -1,7 +1,7 @@
 # Simple Trello Prototype
 
 
-*A simple prototype of trello.com, where you have three list (To Do, In progress, Done).* 
+*A simple prototype of [Trello](https://trello.com/), where you have three list (To Do, In progress, Done).* 
 
 *And tasks can be dragged and dropped on
 any colum.*
